@@ -1,0 +1,42 @@
+.ant-modal-header {
+  padding: 0 !important;
+  padding-left: 20px !important;
+  background: #f5f5f5 !important;
+  border: 0 !important;
+}
+
+.ant-modal-header .ant-modal-title {
+  line-height: 50px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #323232;
+}
+
+.ant-modal-content .ant-modal-close .ant-modal-close-x {
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 20px;
+}
+
+.ant-modal-footer {
+  border: 0;
+}
+
+.ant-table-wrapper .ant-table .ant-table-thead th {
+  font-weight: 700;
+}
+
+.hidden-scrollbar ::-webkit-scrollbar {
+  width: 0;
+  height: 10px;
+}
+
+.hidden-scrollbar ::-webkit-scrollbar-thumb {
+  border-radius: 2px;
+  background: #e3ece7;
+}
+
+.hidden-scrollbar ::-webkit-scrollbar-track {
+  opacity: 0;
+}
